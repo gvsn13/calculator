@@ -1,0 +1,41 @@
+.main{
+    background-color: rgb(38, 39, 40);
+    height: 400px;
+    width: 250px;
+    padding: 20px;
+    margin-top: 10%;
+    margin-left: 40%;
+    border-radius: 5%;
+}
+.row{
+    width: 230px;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+height: 20px;
+}
+.ope{
+    background-color: rgb(197, 112, 9);
+    color: rgb(237, 242, 245);
+}
+.display{
+    background-color: rgb(149, 151, 153);
+    margin: 10px;
+    padding: 10px;
+    height: 70px;
+    width: 200px;
+    border-radius: 5%;
+}
+.container {
+    display: flex;
+    width: 260px;
+    justify-content: space-between;
+}
+.row>button{
+    height: 56px;
+    width: 50px;
+    border-radius: 20%;
+}
